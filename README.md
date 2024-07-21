@@ -2,7 +2,7 @@
 - 👀 I’m interested in Arabic Natural Language Processing (ANLP), Machine Learning (ML), Deep Learning (DL), and Artificial Neural Networks (ANN).
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ANLP, ML, DL, ANN.
-- 📫 How to reach me m.alhawarat@psau.edu.sa
+- 📫 How to reach me mhawarat@meu.edu.jo
 
 <!---
 malhawarat/malhawarat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
